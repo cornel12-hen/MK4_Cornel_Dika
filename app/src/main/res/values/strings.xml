@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">10_31_Latihan4_RecyclerView</string>
+    <string name="tampil_list">List View</string>
+    <string name="tampil_grid">Grid View</string>
+    <string name="tampil_card_view">Card View</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string-array name="data_name">
+        <item>Danau Tondano</item>
+        <item>Pulau Siladen</item>
+        <item>Pantai Patokan</item>
+        <item>Pulau Lihaga</item>
+        <item>Pulau Manado Tua</item>
+        <item>Pantai Ora</item>
+        <item>Pantai Pintu Kota</item>
+        <item>Waterboom Waitatiri</item>
+        <item>Benteng Amsterdam</item>
+        <item>Benteng Ferangi</item>
+    </string-array>
+    <string-array name="data_description">
+ <item>Berada di lereng Gunung Slamet, wisata Pagubugan akan membawa Anda merasakan
+betapa
+ tenang dan nyamannya berada di tengah persawahan dan bermain air di sungai. Eduwisata
+yang berada
+ di Desa Melung ini memiliki berbagai spot wisata menarik yang akan memanjakan Anda. Mulai
+dari trek
+ jogging, outbond, camping ground, sawah pelangi, taman kelinci, berbagai spot foto keren dan
+juga
+ Grujugan Bengkok.Di Grujugan Bengkok ini Anda bisa mandi sepuasnya dan airnya sangat
+jernih, lho!
+ Selain itu lintasan grujugan ini juga panjang, melewati persawahan dan tidak dalam, sehingga
+aman buat
+ si kecil. Selain itu ada juga wisata bercocok tanam bagi anak paud, TK maupun SD yang
+berkunjung. Dan
+ yang terbaru ada kolam renang di tengah persawahan yang aman untuk anak-anak.</item>
+        <item>Berlokasi tak terlalu jauh dengan pusat kota Purwokerto, The Village hadir dengan gaya
+unik
+ khas perkampungan Eropa. Bangunan tinggi besar menyerupai kastil dengan dinding bata
+langsung
+ mencuri perhatian begitu melangkahkan kaki ke sini. Ada beragam aktivitas yang bisa Anda
+lakukan di
+ sini: naik perahu mengitari kanal buatan di sekitar taman rekreasi, memberi makan aneka
+binatang
+ (burung, kelinci, sapi, domba), menunggang kuda, foto-foto dengan kostum Belanda, dan
+masih banyak
+ lagi!</item>
+
+        <item>Danau Tondano merupakan danau paling luas yang terletak di Sulawesi Utara. Destinasi
+            wisata yang satu ini wajib banget kamu kunjungi karena panorama indah yang ditawarkannya.
+            Danau yang terbentuk dari aktivitas vulkanis tersebut dikelilingi oleh Pegunungan Lembean, Bukit
+            Tampusu, Gunung Kaweng, dan Gunung Masarang. Tak mengherankan jika suasana di sekitarnya juga sejuk.
+        Selain Danau Tondano, ada sejumlah spot di dekatnya yang menawarkan pemandangan alam tak kalah
+            menawan. Untuk itu, datanglah ke Ketama Adventure Park, ASTOUND Hill, Gua Tikus Tasuka,
+            atau Bukit Waleposan Lembean.</item>
+
+        <item>Selain Pulau Bunaken, keindahan alam bawah laut Manado juga bisa kamu nikmati di Pulau Siladen.
+            Pulau ini merupakan destinasi wisata alternatif, khususnya bagi yang hobi melakukan aktivitas diving.
+Pulau yang terletak di arah timur laut Pulau Bunaken tersebut juga dihiasi pantai yang berpasir putih. Airnya
+            pun sangat jernih. Selain itu, pulau ini ditumbuhi oleh banyak pepohonan. Udaranya segar dan
+            suasananya sejuk.
+Bukan hanya diving, kamu juga bisa snorkeling di sekitar perairan yang dangkal. Aneka hewan laut dengan
+            bentuk yang menakjubkan akan terlihat dengan jelas, termasuk terumbu karang.</item>
+
+        <item>Destinasi tempat wisata di Manado selanjutnya ini bisa dikatakan cukup tersembunyi
+            dan memiliki akses yang cukup sulit. Namun, perjalanan sulit untuk mencapai Pantai Patokan
+            ini tentu sepadan dengan keindahan panorama alam yang disajikannya. Selain pasir putih
+            dan laguna berwarna hijau kebiruan, ciri khas utama dari objek wisata di Manado satu ini adalah
+            keberadaan dua tebing megah yang mengapit pantai, memberikannya view eksotis yang sangat indah.</item>
+
+        <item>Ingin merasakan sensasi menjelajahi pulau tak berpenghuni? Pulau Lihaga bisa jadi objek wisata
+            di Manado selanjutnya yang bisa kamu kunjungi. Layaknya pulau-pulau indah lain di Indonesia, Pulau
+            Lihaga menawarkan suasana khas pulau tropis yang masih alami dengan pepohonan rimbun dan pantai
+            dengan perairan yang kebiruan. Sama seperti destinasi wisata bahari lainnya di Manado, perairan
+            di sekitar objek wisata Manado satu ini juga terkenal sebagai salah satu tempat diving dan snorkeling favorit.</item>
+
+        <item>Satu lagi objek wisata yang tidak boleh kamu lewatkan saat berkunjung ke Manado yaitu Pulau Manado
+            Tua. lokasinya di kawasan Taman Nasional Bunaken.Ada sejumlah pantai yang cukup populer di Pulau Manado
+            Tua, di antaranya Pantai Apeng Datu, Pantai Apeng Salah, Pantai Apang Gugu, dan Pantai Batu Layar.
+            Di sini pengunjung bisa diving, berenang, atau berjemur sambil menyaksikan sunset.Bukan hanya itu, kamu
+            juga bisa mengunjungi hutan bakau. Aktivitas lain yang seru dan tidak biasa adalah berinteraksi dengan
+            dugong atau lumba-lumba.</item>
+
+        <item>Saat berkunjung ke Ambon, ada banyak pantai indah yang akan kamu temukan disini. Salah satu pantai yang
+            terkenal adalah Pantai Ora yang berhadapan langsung dengan Samudera Pasifik. Selain air lautnya yang sangat
+            jernih, pantai yang berada di Kec. Seram Utara, Kab. Maluku Tengah ini memiliki pasir putih yang sangat halus.
+            Untuk menuju ke pantai ini, kamu harus menempuh jarak cukup jauh dari pusat kota sekitar empat jam. Namun saat
+            melihat pemandangan indah di pantai ini, semua rasa lelah di perjalanan dijamin akan langsung terbayar.</item>
+
+        <item>Pantai berikutnya yang menarik untuk dikunjungi yaitu Pantai Pintu Kota. Terletak di Nusaniwe, pantai ini unik
+            karena memiliki karang yang berlubang mirip seperti pintu. Ini adalah hasil dari karang pantai yang ditempa oleh
+            air laut selama ribuan tahun. Pemandangan Laut Banda yang indah bisa kamu saksikan dari karang ini. Langit biru,
+            hamparan karang di tepi pantai yang indah membuat pemandangan pantai Pintu Kota ini semakin lengkap. Selain cantik
+            untuk diabadikan, ekosistem laut di pantai ini juga masih terjaga dengan baik.</item>
+
+        <item>Selain puas menjelajahi pantai-pantai yang indah dan menakjubkan, jika kamu ingin sensasi yang berbeda saat bermain
+            air, Waterboom Waitatiri di Ambon bisa menjadi alternatif wisata yang menyenangkan bersama keluarga. Destinasi wisata
+            yang berada di Kecamatan Baguala Ambon ini memiliki nuansa natural namun dikemas dengan konsep yang modern. Objek wisata
+            ini sangat cocok untuk dikunjungi bersama teman-teman dan keluarga. Selain itu, disini kamu juga dapat menikmati berbagai
+            permainan air dan sejumlah aktivitas seru seperti berselancar di waterboom hingga bersantai menikmati kolam arus. Pilihan
+            yang tepat untuk menghabiskan waktu liburan, bukan?</item>
+
+        <item>Tak hanya memiliki pantai dan wisata air, di Ambon kamu juga akan menemukan wisata sejarah. Salah satunya Benteng Amsterdam
+            yang berada di Leihitu, Maluku Tengah. Benteng ini merupakan bangunan peninggalan Belanda yang terletak di perbatasan Negeri
+            Hila dan Negeri Kaitetu. Benteng ini dibangun oleh VOC dan berdiri sejak tahun 1637.Awalnya benteng ini dibangun sebagai pertahanan
+            untuk melawan penduduk setempat. Meski benteng ini sudah sangat tua dan pernah terkena tsunami serta gempa bumi, bangunan bersejarah
+            ini masih tetap kokoh berdiri hingga saat ini. Benteng unik ini punya daya tarik tersendiri sehingga selalu ramai oleh pengunjung.
+            Tempat ini juga cocok dijadikan spot foto yang menarik dan Instagrammable.</item>
+
+        <item>Ingin menyaksikan bangunan bersejarah di Ambon yang lainnya?Kamu bisa mengunjungi Benteng Ferangi atau biasa disebut Benteng Victoria.
+            Jika Benteng Amsterdam adalah benteng tua peninggalan Belanda, benteng ini merupakan peninggalan dari bangsa Portugis. Benteng yang berada
+            di kecamatan Sirimau, Ambon ini dibangun sekitar tahun 1575. Sejarah benten ini sangat menarik. Dulu, bangsa Portugis membangun benteng ini
+            dengan mengerahkan tenaga dari para penduduk. Dua dekade berikutnya, bangsa Belanda datang dan merebut wilayah ini dari Portugis. Kemudian
+            setelahnya, Belanda mengganti nama benteng ini menjadi Nieuw Victoria. Benteng yang dulu sempat dijadikan sebagai pusat pemerintahan kolonial
+            Belanda ini menjadi saksi bisu terbentuknya Kota Ambon. Jadi, jika kamu sedang berwisata di Ambon, jangan lupa untuk mengunjungi bangunan
+            bersejarah yang satu ini.</item>
+
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2019/09/18-1-by-@miftakhulmukhasin-@hengki_pamungkas-740x294.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2020/03/11-1-Bukit-Banda-by-lukman_banda-@-aldi_maulana_assegaf-740x411.jpg</item>
+        <item>https://ik.imagekit.io/tvlk/blog/2020/02/Danau-Tondano-1-Wikipedia-scaled.jpg</item>
+        <item>https://ik.imagekit.io/tvlk/blog/2020/03/wisata-di-Manado-2-Flickr.jpg</item>
+        <item>https://ik.imagekit.io/tvlk/blog/2020/03/wisata-di-Manado-3-SuperAdventure.jpg</item>
+        <item>https://ik.imagekit.io/tvlk/blog/2020/03/wisata-di-Manado-4-Seputar-Sulawesi-Utara.jpg</item>
+        <item>https://ik.imagekit.io/tvlk/blog/2020/03/wisata-di-Manado-5-Wikipedia.jpg</item>
+        <item>https://ik.imagekit.io/tvlk/blog/2021/08/destinasi-wisata-di-ambon-pantai-ora-shutterstock.jpg</item>
+        <item>https://ik.imagekit.io/tvlk/blog/2021/08/tempat-wisata-di-ambon-pantai-pintu-kota-wikipedia.jpeg</item>
+        <item>https://2.bp.blogspot.com/-DH6_h_kPTvQ/VjrljpXnNFI/AAAAAAAADV4/ZiYqE5R2BD8/s320/water%2BBooM%2B03.png</item>
+        <item>https://ik.imagekit.io/tvlk/blog/2021/08/destinasi-wisata-di-Ambon-benteng-amsterdam-wikipedia.jpg</item>
+        <item>https://i.pinimg.com/736x/97/f9/8b/97f98bb26397d526f6884b9980477b59.jpg</item>
+    </string-array>
+</resources>
